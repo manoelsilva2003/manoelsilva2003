@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manoelsilva2003
 - 👀 I’m interested in ...front-end and back-end
-- 🌱 I’m currently learning ...fulstack in the school bytrybe
+- 🌱 I’m currently learning ...full stack in the school bytrybe
 - 💞️ I’m looking to collaborate on ...development web
 - 📫 How to reach me ...instagram:dev.manoel linkedin:manoel-gomes-silva
 
